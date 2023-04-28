@@ -1,4 +1,9 @@
 ### Hello, I'm Tunahan.
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
   
   As a .NET developer, I have worked on various projects and have been actively involved on Github to enhance my skills.
 
