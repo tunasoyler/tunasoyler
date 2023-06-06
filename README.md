@@ -1,4 +1,5 @@
 <h3 align="left">Connect with me:</h3>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tunahan-soyler" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/tunahan-soyler?trk=profile-badge">Tunahan Söyler</a></div>              
 <p align="left">
 <a href="https://linkedin.com/in/tunahan-soyler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-ayan-46a70b175/" height="30" width="40" /></a>
 </p>
