@@ -11,7 +11,7 @@
   
   As a .NET developer, I have worked on various projects and have been actively involved on Github to enhance my skills.
 
-  One of my project, "BurgerMVC" is a web application:
+  One of my project, "Burger Shop" is a web application:
   - Built using Model-View-Controller (MVC) architecture and Object-Oriented Programming (OOP) principles.
   - The application allows users to add items to their cart and place an order.
   - The AI chat feature suggests personalized recommendations based on the user's preferences.
