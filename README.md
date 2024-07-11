@@ -39,6 +39,5 @@ Languages and Tools:
 Additionally, I have experience with .NET, ASP.NET, SQL, and other related technologies, which complement my work in game development.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunasoyler&show_icons=true&locale=en" alt="tunahan-soyler" /></p>
-This is my GitHub page: GitHub
 
-This is my LinkedIn: LinkedIn
+This is my LinkedIn: [LinkedIn](https://www.linkedin.com/in/tunahan-soyler/)
