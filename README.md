@@ -2,7 +2,7 @@ Hello, I'm Tunahan.
 I am a developer focused on creating engaging and immersive experiences using Unreal Engine and C++. My recent work has been centered around game development, particularly on my latest project, SpaceBourne 2.
 
 Unreal Engine Projects
-I am currently working on filling my GitHub profile with Unreal Engine-related work, focusing on my latest project, SpaceBourne 2.
+I am currently working on filling my GitHub profile with Unreal Engine-related work, focusing on our latest project, SpaceBourne 2.
 
 SpaceBourne 2
 SpaceBourne 2 is a futuristic, cyberpunk-inspired space-themed game developed using Unreal Engine 4.27.
