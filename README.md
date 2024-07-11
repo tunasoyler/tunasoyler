@@ -5,11 +5,11 @@ Unreal Engine Projects
 I am currently working on filling my GitHub profile with Unreal Engine-related work, focusing on our latest project, SpaceBourne 2.
 
 SpaceBourne 2
-SpaceBourne 2 is a futuristic, cyberpunk-inspired space-themed game developed using Unreal Engine 4.27.
+SpaceBourne 2 is a futuristic, rpg space game developed using Unreal Engine 4.27
 
-Storyline: The game involves navigating the complexities of interstellar politics, uncovering government secrets, and making crucial decisions about the future of humanity.
-Gameplay Mechanics: The game features space combat, exploration, and intricate mission structures, providing a rich and engaging experience.
+Gameplay Mechanics: The game features rpg, space combat, exploration, and intricate mission structures, providing a rich and engaging experience.
 Guilds and Lore: The game includes various guilds like the Mercenaries Guild, Bounty Hunters Guild, and Explorers Guild, each with unique backgrounds and roles within the game universe.
+
 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tunahan-soyler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunahan-soyler" height="30" width="40" /></a>
