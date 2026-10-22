@@ -13,14 +13,16 @@ I write gameplay and systems code in Unreal Engine, mostly in C++. I work at [DB
 **Your train. Your line. Your company.**<br>
 Build a train wagon by wagon, haul cargo across a living galaxy and grow from hired hauler to the owner of your own line, alone or with up to three friends.
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="25%"><h3>250</h3><sub>sectors</sub></td>
-    <td align="center" width="25%"><h3>12</h3><sub>station types</sub></td>
-    <td align="center" width="25%"><h3>20+</h3><sub>wagon modules</sub></td>
-    <td align="center" width="25%"><h3>4</h3><sub>player co-op</sub></td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<h3>250</h3><sub>sectors</sub>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<h3>12</h3><sub>station&nbsp;types</sub>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<h3>20+</h3><sub>wagon&nbsp;modules</sub>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<h3>4</h3><sub>player&nbsp;co-op</sub>&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </table>
+</div>
 
 - **Build it wagon by wagon.** Cargo bays, refineries, drone bays, mining lasers, crew quarters. Every wagon is an empty frame until you fit it out.
 - **Bring your crew.** Everyone runs a train of their own, or climbs aboard a friend's and works the line together.
